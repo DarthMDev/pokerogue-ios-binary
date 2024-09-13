@@ -1,0 +1,34 @@
+{
+  "name": "PokeRogue",
+  "subtitle": "Source for PokeRogue on iOS",
+  "description": "This source provides the latest releases of PokeRogue for iOS",
+  "iconURL": "https://i.imgur.com/VetBVg5.png",
+  "website": "https://github.com/DarthMDev/pokerogue-ios-binary",
+  "featuredApps": [
+    "com.pokerogue"
+  ],
+  "apps": [
+    {
+      "name": "PokeRogue",
+      "bundleIdentifier": "com.pokerogue",
+      "developerName": "Red",
+      "subtitle": "A Pokémon-themed roguelike game",
+      "localizedDescription": "a browser-based Rogue-lite Pokémon battling game spanning all 9 generations for iOS. https://pokerogue.net/",
+      "iconURL": "https://i.imgur.com/VetBVg5.png",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "marketingVersion": "1.2.1",
+          "size": 47900
+          "date": "2024-09-11",
+          "localizedDescription": "Fixed extended memory mode\nImproved Bluetooth controller support to reduce dropped connections\nmade network loss handling less aggressive to prevent random app restarts.",
+          "minOSVersion": "15.6",
+          "downloadURL": "https://github.com/DarthMDev/pokerogue-ios-binary/releases/download/v1.2.1/PokeRogue.ipa"
+        }
+      ],
+      "appPermissions": {}
+
+    }
+  ]
