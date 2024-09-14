@@ -21,7 +21,7 @@
           "version": "1.0",
           "buildVersion": "1",
           "marketingVersion": "1.2.1",
-          "size": 47900
+          "size": 47900,
           "date": "2024-09-11",
           "localizedDescription": "Fixed extended memory mode\nImproved Bluetooth controller support to reduce dropped connections\nmade network loss handling less aggressive to prevent random app restarts.",
           "minOSVersion": "15.6",
@@ -31,4 +31,5 @@
       "appPermissions": {}
 
     }
-  ]
+]
+}
